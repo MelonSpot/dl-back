@@ -1,2 +1,2 @@
-# dl-back
-MelonSpot, deeplake, back
+# pj-Melonspot (deeplake)
+React(+yarn), Express(Node.js), MongoDB
