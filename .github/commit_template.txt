@@ -1,0 +1,14 @@
+[Type] (Branch): Brief description
+
+[optional]: #[issue number]
+
+- types
+Feature : New feature
+Fix : Bug Fix
+Mod : Function & logic modification
+Refactor : clean / refactor codes
+Style : change styles
+Doc : change documents
+Release : additional change related to deployment
+Test : related to test codes
+Chore : etc
