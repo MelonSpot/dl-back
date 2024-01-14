@@ -2,7 +2,7 @@
   "name": "melonspot",
   "version": "1.0.0",
   "description": "melonspot backend express project",
-  "main": "index.js",
+  "main": "melonspot.js",
   "repository": "https://github.com/MelonSpot/dl-back.git",
   "author": "dev-deeplake <127172647+dev-deeplake@users.noreply.github.com>",
   "license": "MIT",
@@ -17,5 +17,5 @@
   },
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
-  }  
+  }
 }
